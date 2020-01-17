@@ -1,0 +1,1 @@
+ i) input the width w and the height h of a rectangle, ii) use mul to calculate the area a=w*h of the rectangle, and iii) output the calculated result:

@@ -1,0 +1,1 @@
+In the following example we illustrate the use of the beq (Branch if Equal) instruction to organize a loop. The code reads non-zero integers starting from address 0 in the memory and copies them to the memory starting right after the compiled code. The copy process finishes when a 0 value is encountered (the 0 value is not copied):

@@ -1,0 +1,1 @@
+Use the lui and addi instructions to store the value of 23456 in x6 and the value of 12345 in x7. Then use the sub instruction to calculate the value of 23456-12345 and store the result in x5
